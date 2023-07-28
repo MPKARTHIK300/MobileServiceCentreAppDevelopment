@@ -1,0 +1,21 @@
+
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(160, 186, 184);
+    margin-left: -40px;
+    margin-right: -40px;
+  }
+  
+
+  .footer-content p {
+    margin-left: 130px;
+    margin-top: 22px;
+  }
+  
+
+  
+ 
+  
